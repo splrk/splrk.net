@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: November 2010 Prayer Letter
-published: false
-date: 11/01/2010 2:52 AM
+published: true
+date: '11/01/2010 2:52 AM'
 category: blog
 thumbnail: /images/uploads/nov2.jpg
 ---
