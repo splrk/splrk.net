@@ -17,3 +17,4 @@ collections:
           - {label: "Published Date", name: "date", widget: "datetime"}
           - {label: "Category", name: "category", widget: "string"}
           - {label: "Featured Image", name: "thumbnail", widget: "image"}
+          - {label: "Post", name: "body", widget: "markdown"}
